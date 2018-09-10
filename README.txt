@@ -5,3 +5,5 @@ Bac a sable pour réaliser les exercices JAVA.
 
 Description : Ce dossier me servira de repertoire de travail et de test pour les excercies JAVA du cursus OC.
 Il est synchronisé avec mon IDE Eclipse afin de faciliter les Push/Pull.
+
+Les fichiers Java ce trouvent dans le dossier /src/
